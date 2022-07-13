@@ -1,3 +1,5 @@
+# String ends with?
+
 def solution(string, ending):
     if ending == string[-len(ending):] or ending == "":
         return True

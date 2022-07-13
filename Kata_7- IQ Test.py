@@ -1,3 +1,5 @@
+# IQ Test
+
 def iq_test(numbers):
     numbers = numbers.split()
     arr = []

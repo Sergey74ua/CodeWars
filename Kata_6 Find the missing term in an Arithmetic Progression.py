@@ -1,3 +1,5 @@
+# Find the missing term in an Arithmetic Progression
+
 def find_missing(sequence):
     if abs(sequence[1] - sequence[0]) <= abs(sequence[-1] - sequence[-2]):
         step = sequence[1] - sequence[0]

@@ -1,3 +1,5 @@
+# Break camelCase
+
 def solution(s):
     s2 = ""
     for i in s:

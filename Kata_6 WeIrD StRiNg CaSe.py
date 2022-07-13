@@ -1,3 +1,5 @@
+# WeIrD StRiNg CaSe
+
 def to_weird_case(string):
     string = list(string)
     StRiNg = ""

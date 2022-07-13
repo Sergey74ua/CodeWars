@@ -1,3 +1,5 @@
+# Product of consecutive Fib numbers
+
 def productFib(prod):
     n1 = 0
     n2 = 1

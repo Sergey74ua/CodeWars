@@ -1,3 +1,5 @@
+# Highest Rank Number in an Array
+
 def highest_rank(arr):
     num = 0
     sum = 0

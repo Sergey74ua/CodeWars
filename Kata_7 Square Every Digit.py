@@ -1,3 +1,5 @@
+# Square Every Digit
+
 def square_digits(num):
     num = str(num)
     string = ""

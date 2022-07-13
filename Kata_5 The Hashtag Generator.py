@@ -1,3 +1,5 @@
+# The Hashtag Generator
+
 def generate_hashtag(s):
     if s == "" or len(s) > 139:
         return False

@@ -1,3 +1,5 @@
+# Build a pile of Cubes
+
 def find_nb(m):
     cube = 0
     sum = 0

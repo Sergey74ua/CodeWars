@@ -1,3 +1,5 @@
+# Multiples of 3 or 5
+
 def solution(number):
     sum = 0
     for i in range(number):

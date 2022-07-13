@@ -1,4 +1,4 @@
-# ВТОРОЙ ВАРИАНТ
+# Text align justify
 def justify(text, width):
     text_out = []
     string = []

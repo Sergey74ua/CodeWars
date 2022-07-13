@@ -1,3 +1,5 @@
+# Growth of a Population
+
 def nb_year(p0, percent, aug, p):
     years = 0
     while p0 < p:

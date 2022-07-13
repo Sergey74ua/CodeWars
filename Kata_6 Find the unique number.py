@@ -1,3 +1,5 @@
+# Find the unique number
+
 def find_uniq(arr):
     for i in range(len(arr)):
         if i < len(arr)-1:
